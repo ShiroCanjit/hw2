@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-19T17:13:36</date>
+  <millis>1634652816501</millis>
+  <sequence>0</sequence>
+  <logger>guice.hw.Application</logger>
+  <level>INFO</level>
+  <class>guice.hw.Application</class>
+  <method>waitForInput</method>
+  <thread>1</thread>
+  <message>id: 1 msg: 3</message>
+</record>
+<record>
+  <date>2021-10-19T17:13:37</date>
+  <millis>1634652817514</millis>
+  <sequence>1</sequence>
+  <logger>guice.hw.Application</logger>
+  <level>INFO</level>
+  <class>guice.hw.Application</class>
+  <method>waitForInput</method>
+  <thread>1</thread>
+  <message>id: 2 msg: 5</message>
+</record>
+<record>
+  <date>2021-10-19T17:13:38</date>
+  <millis>1634652818518</millis>
+  <sequence>2</sequence>
+  <logger>guice.hw.Application</logger>
+  <level>INFO</level>
+  <class>guice.hw.Application</class>
+  <method>waitForInput</method>
+  <thread>1</thread>
+  <message>id: 3 msg: 6</message>
+</record>
+<record>
+  <date>2021-10-19T17:13:40</date>
+  <millis>1634652820545</millis>
+  <sequence>3</sequence>
+  <logger>guice.hw.Application</logger>
+  <level>INFO</level>
+  <class>guice.hw.Application</class>
+  <method>waitForInput</method>
+  <thread>1</thread>
+  <message>id: 4 msg: 4</message>
+</record>
+</log>
